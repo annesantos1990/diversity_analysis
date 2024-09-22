@@ -57,9 +57,9 @@ A tabela `dados_tratados` foi obtida depois do tratamento de dados no Google Col
 ### Análises e Resultados
 #### 1. Análise de Dados - Diversidade no Setor de TI (2022) 📝
 
-Os resultados aqui mostrados e discutidos foram obtidos através do dashboard feito no Looker Studio - [Clique Aqui](https://lookerstudio.google.com/reporting/7c9deb04-7e25-4807-8f1d-f3ebc16e1c6b) 
+Os resultados aqui mostrados e discutidos foram obtidos através do dashboard feito no Looker Studio - [Link do Dashboard](https://lookerstudio.google.com/reporting/7c9deb04-7e25-4807-8f1d-f3ebc16e1c6b) 
 
-Página do Notion com a análise detalhada e as discussões - [Clique Aqui](https://giddy-shamrock-550.notion.site/Resultados-e-Conclus-es-4bb3f739611d4bb8bb6f1cf91f5e43c7?pvs=4)
+Página do Notion com a análise detalhada e as discussões - [Link do Notion](https://giddy-shamrock-550.notion.site/Resultados-e-Conclus-es-4bb3f739611d4bb8bb6f1cf91f5e43c7?pvs=4)
 
 **Resumo dos resultados:**
 
@@ -96,7 +96,7 @@ Por outro lado, fatores como a região de residência e a raça do profissional 
 
 A insatisfação no trabalho, correlacionada a salários mais baixos, aponta para a necessidade de melhorar as condições de trabalho e remuneração para aumentar a satisfação dos profissionais. Esses achados evidenciam a complexidade da estrutura salarial no setor de TI e reforçam a urgência de abordar questões de equidade social e regional, promovendo um ambiente de trabalho mais justo e inclusivo para todos.
 
-**Principais Recomendações**:
+#### **Principais Recomendações**:
 
 - **Aumentar a diversidade**: Implementar estratégias de recrutamento e retenção direcionadas para atrair e manter grupos sub-representados.
 - **Abordar a diferença salarial**: Realizar auditorias salariais regulares e implementar práticas de remuneração equitativa.
@@ -104,15 +104,6 @@ A insatisfação no trabalho, correlacionada a salários mais baixos, aponta par
 - **Fomentar culturas inclusivas**: Criar ambientes de trabalho inclusivos que valorizem a diversidade e promovam oportunidades iguais.
 - **Aprimorar a coleta de dados**: Coletar dados mais granulares para entender melhor as causas das disparidades e medir o impacto das iniciativas de diversidade.
 
-Para mais detalhes, consulte a análise completa no dashboard do Looker Studio: [Link do Dashboard](https://lookerstudio.google.com/reporting/7c9deb04-7e25-4807-8f1d-f3ebc16e1c6b)
-
-# **Limitações dos Dados**
-
----
-
-**Representatividade Geográfica**: Embora o conjunto de dados inclua profissionais de várias regiões do Brasil, a forte concentração de entrevistados em São Paulo (44%) pode enviesar os resultados, especialmente quando se analisa o impacto regional nos salários.
-
-**Dados de um Único Período**: A análise utiliza dados de 2022, o que oferece uma visão pontual do setor de TI. No entanto, tendências de contratação e salários podem mudar ao longo do tempo, e os resultados podem não refletir as mudanças econômicas ou sociais subsequentes.
 
 ###  Links de Interesse:
 
