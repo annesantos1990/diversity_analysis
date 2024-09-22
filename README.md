@@ -51,26 +51,81 @@ Para visualizar a tabela com os dados tratados acesse: [dados_tratrados.csv](htt
 
 </details> 
 
-### Pré-processamento de dados e Análises
+### Pré-processamento de dados
+
 A tabela `dados_tratados` foi obtida depois do tratamento de dados no Google Colab. Para ver a limpeza, tratamento dos dados brutos e a análise exploratória acesse:[`analise_diversidade__Eslaine_Santos.ipynb`](https://github.com/annesantos1990/diversity_analysis/blob/main/analise_diversidade__Eslaine_Santos.ipynb)
 
+
+Os resultados aqui mostrados e discutidos foram obtidos através do dashboard feito no Looker Studio. Para acessá-los clique no link a seguir: https://lookerstudio.google.com/reporting/7c9deb04-7e25-4807-8f1d-f3ebc16e1c6b
+
+### Análises e Resultados
 #### 1. Análise de Dados - Diversidade no Setor de TI (2022) 📝
 
-**Arquivo**: `analise_dados.ipynb`
+Os resultados aqui mostrados e discutidos foram obtidos através do dashboard feito no Looker Studio - [Clique Aqui](https://lookerstudio.google.com/reporting/7c9deb04-7e25-4807-8f1d-f3ebc16e1c6b) 
 
-Este notebook contém uma análise detalhada sobre a diversidade do público na área de TI com base em dados de 2022. Algumas das perguntas respondidas incluem:
+Página do Notion com a análise detalhada e as discussões - Clique Aqui
 
-- Qual é a distribuição de gênero no setor?
-- Como as diferentes etnias estão representadas?
-- Existe alguma mudança nas tendências de contratação?
+**Resumo dos resultados:**
+
+**Sub-representação**: Os dados mostram que mulheres (24,78%), pessoas não brancas (34,75%) e PCDs (1,26%) continuam representando uma minoria significativa na área de dados. 
+
+**Disparidades geográficas**: Embora 56,51% dos entrevistados estejam fora de São Paulo, é importante notar que esse grupo abrange profissionais de 25 estados, enquanto São Paulo, sozinho, concentra 44% dos trabalhadores na área. Isso evidencia a centralização das oportunidades no estado, refletindo a maior oferta de empregos e concentração de empresas na capital paulista.
+
+**Diferença salarial**: Um gap salarial significativo entre gêneros persiste, com homens ganhando (média salarial: R$ 10.488,63)  consideravelmente mais do que mulheres (média salarial: R$ 8.632,79), em média. Minorias raciais e étnicas também enfrentam disparidades salariais.
+
+**Desigualdade racial**: Pessoas brancas são maioria no setor, refletindo as desigualdades raciais presentes no mercado de trabalho. A análise por etnia revela que pessoas negras e indígenas estão subrepresentadas em todos os níveis hierárquicos e recebem, em média, salários menores.
 
 #### 2. Regressão Linear - Análise de Salários e Diversidade 💼
+O modelo de reegressão foi construído no nootebook do Colab na qual pode ter acesso clicando no link abaixo:
 
-**Arquivo**: `regressao_linear.ipynb`
+**Arquivo**: [`regressao_linear.ipynb`]()
 
 Neste notebook, foi realizado um modelo de **Regressão Linear,** cujo objetivo é ****predizer o salário das pessoas no setor de TI, trazendo insights de quais fatores influenciam mais ou menos nno salário dos profissionais da área.
 
 Essa análise proporciona uma visão  aprofundada sobre os principais fatores que podem estar influenciando o cenário salarial no setor de tecnologia.
+
+### Resultados
+**Diversidade e Inclusão no Setor de TI**
+
+Esta análise, baseada em dados de um dashboard do Looker Studio, oferece insights sobre o cenário de diversidade e inclusão no setor de TI no Brasil. Os principais achados incluem:
+
+**Resultados do modelo**: Nosso modelo de regressão destaca que fatores como senioridade, experiência e tamanho da empresa são fortes preditores de salários mais altos. No entanto, raça, gênero e localização geográfica continuam a influenciar os rendimentos, indicando desigualdades sistêmicas.
+
+
+
+# Conclusões
+
+---
+
+Os resultados da análise do modelo de regressão para prever salários no setor de TI revelam dinâmicas importantes sobre os fatores que influenciam a remuneração dos profissionais. De um lado, variáveis como ocupação de cargos de gestão, senioridade, e experiência destacam-se como determinantes positivas, confirmando que responsabilidades maiores e progressão de carreira estão fortemente associadas a melhores salários, o que é esperado em um setor em crescimento e altamente competitivo como o de TI.
+
+Por outro lado, fatores como a região de residência e a raça do profissional demonstram a existência de desigualdades significativas. A influência negativa de morar nas regiões Sul, Nordeste e Sudeste, mesmo com o Sudeste sendo um grande polo de oportunidades, sugere que o mercado de trabalho em TI pode ter uma distribuição desigual em termos de remuneração. Além disso, a disparidade salarial relacionada a profissionais não brancos reforça a necessidade de uma maior inclusão e equidade no setor.
+
+A insatisfação no trabalho, correlacionada a salários mais baixos, aponta para a necessidade de melhorar as condições de trabalho e remuneração para aumentar a satisfação dos profissionais. Esses achados evidenciam a complexidade da estrutura salarial no setor de TI e reforçam a urgência de abordar questões de equidade social e regional, promovendo um ambiente de trabalho mais justo e inclusivo para todos.
+
+**Principais Recomendações**:
+
+- **Aumentar a diversidade**: Implementar estratégias de recrutamento e retenção direcionadas para atrair e manter grupos sub-representados.
+- **Abordar a diferença salarial**: Realizar auditorias salariais regulares e implementar práticas de remuneração equitativa.
+- **Promover diversidade geográfica**: Expandir as operações para regiões fora dos principais polos de TI.
+- **Fomentar culturas inclusivas**: Criar ambientes de trabalho inclusivos que valorizem a diversidade e promovam oportunidades iguais.
+- **Aprimorar a coleta de dados**: Coletar dados mais granulares para entender melhor as causas das disparidades e medir o impacto das iniciativas de diversidade.
+
+Para mais detalhes, consulte a análise completa no dashboard do Looker Studio: [Link do Dashboard](https://lookerstudio.google.com/reporting/7c9deb04-7e25-4807-8f1d-f3ebc16e1c6b)
+
+# **Limitações dos Dados**
+
+---
+
+**Representatividade Geográfica**: Embora o conjunto de dados inclua profissionais de várias regiões do Brasil, a forte concentração de entrevistados em São Paulo (44%) pode enviesar os resultados, especialmente quando se analisa o impacto regional nos salários.
+
+**Dados de um Único Período**: A análise utiliza dados de 2022, o que oferece uma visão pontual do setor de TI. No entanto, tendências de contratação e salários podem mudar ao longo do tempo, e os resultados podem não refletir as mudanças econômicas ou sociais subsequentes.
+
+
+
+
+
+
 
 
 ### Dashboard
