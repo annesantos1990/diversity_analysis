@@ -59,7 +59,7 @@ A tabela `dados_tratados` foi obtida depois do tratamento de dados no Google Col
 
 Os resultados aqui mostrados e discutidos foram obtidos através do dashboard feito no Looker Studio - [Clique Aqui](https://lookerstudio.google.com/reporting/7c9deb04-7e25-4807-8f1d-f3ebc16e1c6b) 
 
-Página do Notion com a análise detalhada e as discussões - Clique Aqui
+Página do Notion com a análise detalhada e as discussões - [Clique Aqui](https://giddy-shamrock-550.notion.site/Resultados-e-Conclus-es-4bb3f739611d4bb8bb6f1cf91f5e43c7?pvs=4)
 
 **Resumo dos resultados:**
 
