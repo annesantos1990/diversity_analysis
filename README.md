@@ -1,7 +1,6 @@
 # **Análise de Diversidade no Setor de TI**
 
----
-
+![silhouette-profile-face-group-men-women-diverse-culture-people-diversity-racial-equality_175061-345](https://github.com/user-attachments/assets/f2d04101-d232-4a93-a395-dccc1dc18b16)
 
 ### Introdução
 
@@ -22,7 +21,7 @@ Realizar uma análise detalhada de gênero, raça e região para avaliar a prese
 
 A análise será conduzida a partir de um conjunto de dados que inclui informações demográficas, posição ocupacional, e faixas salariais de profissionais do setor de TI. Para isso, serão utilizadas técnicas como análise descritiva, visualização de dados e inferência estatística. A pesquisa também fará uma segmentação dos profissionais por gênero, raça, e região, cruzando essas variáveis com dados salariais e de anos de experiência.
 
-### Ferramentas
+### Ferramentas 🛠️
 
 A análise será realizada utilizando ferramentas como Python (para processamento de dados e análise estatística), Power BI (para visualizações interativas), e SQL (para consultas e manipulação de grandes volumes de dados).
 
@@ -55,9 +54,6 @@ Para visualizar a tabela com os dados tratados acesse: [dados_tratrados.csv](htt
 
 A tabela `dados_tratados` foi obtida depois do tratamento de dados no Google Colab. Para ver a limpeza, tratamento dos dados brutos e a análise exploratória acesse:[`analise_diversidade__Eslaine_Santos.ipynb`](https://github.com/annesantos1990/diversity_analysis/blob/main/analise_diversidade__Eslaine_Santos.ipynb)
 
-
-Os resultados aqui mostrados e discutidos foram obtidos através do dashboard feito no Looker Studio. Para acessá-los clique no link a seguir: https://lookerstudio.google.com/reporting/7c9deb04-7e25-4807-8f1d-f3ebc16e1c6b
-
 ### Análises e Resultados
 #### 1. Análise de Dados - Diversidade no Setor de TI (2022) 📝
 
@@ -78,24 +74,21 @@ Página do Notion com a análise detalhada e as discussões - Clique Aqui
 #### 2. Regressão Linear - Análise de Salários e Diversidade 💼
 O modelo de reegressão foi construído no nootebook do Colab na qual pode ter acesso clicando no link abaixo:
 
-**Arquivo**: [`regressao_linear.ipynb`]()
+**Arquivo**: [`Regressao_Linear_Eslaine.ipynb](https://github.com/annesantos1990/diversity_analysis/blob/main/Regressao_Linear_Eslaine.ipynb)
 
-Neste notebook, foi realizado um modelo de **Regressão Linear,** cujo objetivo é ****predizer o salário das pessoas no setor de TI, trazendo insights de quais fatores influenciam mais ou menos nno salário dos profissionais da área.
+O modelo de regressão foi desenvolvido com o objetivo de prever os salários dos profissionais no setor de TI, identificando os fatores que mais influenciam os níveis salariais. A análise proporciona insights valiosos sobre as desigualdades presentes no setor.
 
-Essa análise proporciona uma visão  aprofundada sobre os principais fatores que podem estar influenciando o cenário salarial no setor de tecnologia.
+**Desempenho:** O modelo apresentou um desempenho moderado, conseguindo prever salários com razoável precisão, especialmente para valores abaixo de R$ 20.000. No entanto, o modelo teve dificuldades em prever salários mais altos.
 
-### Resultados
-**Diversidade e Inclusão no Setor de TI**
+**Fatores que mais influenciam os salários:**
 
-Esta análise, baseada em dados de um dashboard do Looker Studio, oferece insights sobre o cenário de diversidade e inclusão no setor de TI no Brasil. Os principais achados incluem:
+- **Positivos:** Cargos de gestão, experiência, senioridade, nível pleno e tamanho da empresa. Profissionais com maior experiência, em cargos de liderança e em empresas maiores tendem a receber salários mais altos.
+- **A análise confirma a expectativa de que a progressão de carreira e a responsabilidade estão diretamente ligadas à remuneração no setor de TI.**
 
-**Resultados do modelo**: Nosso modelo de regressão destaca que fatores como senioridade, experiência e tamanho da empresa são fortes preditores de salários mais altos. No entanto, raça, gênero e localização geográfica continuam a influenciar os rendimentos, indicando desigualdades sistêmicas.
+**Em resumo, o modelo demonstra que a experiência, a posição hierárquica e o tamanho da empresa são os principais determinantes dos salários no setor de TI.**
 
 
-
-# Conclusões
-
----
+### Conclusões
 
 Os resultados da análise do modelo de regressão para prever salários no setor de TI revelam dinâmicas importantes sobre os fatores que influenciam a remuneração dos profissionais. De um lado, variáveis como ocupação de cargos de gestão, senioridade, e experiência destacam-se como determinantes positivas, confirmando que responsabilidades maiores e progressão de carreira estão fortemente associadas a melhores salários, o que é esperado em um setor em crescimento e altamente competitivo como o de TI.
 
@@ -121,22 +114,13 @@ Para mais detalhes, consulte a análise completa no dashboard do Looker Studio: 
 
 **Dados de um Único Período**: A análise utiliza dados de 2022, o que oferece uma visão pontual do setor de TI. No entanto, tendências de contratação e salários podem mudar ao longo do tempo, e os resultados podem não refletir as mudanças econômicas ou sociais subsequentes.
 
+###  Links de Interesse:
+
+* **Dashboard Looker Studio:** [Dashboard - Análise de Diversidade](https://lookerstudio.google.com/reporting/7c9deb04-7e25-4807-8f1d-f3ebc16e1c6b)
+* **Página com os Resultados e Discussões detalhadas desse projeto**: [Notion](https://giddy-shamrock-550.notion.site/Resultados-e-Conclus-es-4bb3f739611d4bb8bb6f1cf91f5e43c7?pvs=4)
+
+### Contato:
+
+* [**LinkedIn**](https://www.linkedin.com/in/eslaine-santos/)
 
 
-
-
-
-
-
-### Dashboard
-
-As principais análises foram obtidas no Looker Studio. Para acessar clique no link abaixo: [Dashboard - Análise de Diversidade]()
-
-### Principais Resultados:
-
-
-### Links de Interesse:
-
-Para a discussão dos resultados, explicação do dashboard, conclusões e principais insights, acesse a página a seguir:
-
-[Resultados e Conclusões](https://www.notion.so/Resultados-e-Conclus-es-4bb3f739611d4bb8bb6f1cf91f5e43c7?pvs=21)
