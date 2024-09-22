@@ -1,34 +1,33 @@
-# **Análise de Diversidade na Área de Dados**
+# **Análise de Diversidade no Setor de TI**
 
 ---
 
 
 ### Introdução
 
-Este projeto consiste em uma análise exploratória da diversidade na área de dados no Brasil. O objetivo é avaliar não apenas a representatividade de grupos minoritários no setor, mas também examinar disparidades salariais entre essas populações. Ao aprofundar nossa compreensão da composição demográfica e dos salários na área de dados, buscamos identificar possíveis lacunas e oportunidades para promover maior equidade e inclusão.
+Este projeto consiste em uma análise exploratória da diversidade na área de Tecnologia no Brasil. O objetivo é avaliar não apenas a representatividade de grupos minoritários no setor, mas também examinar disparidades salariais entre essas populações. Ao aprofundar nossa compreensão da composição demográfica e dos salários no setor de TI, buscamos identificar possíveis lacunas e oportunidades para promover maior equidade e inclusão.
 
 ### Objetivos
 
-Realizar uma análise detalhada de gênero, raça e região para avaliar a presença de diversidade na área de dados no Brasil. O objetivo é identificar possíveis desigualdades e variações na representatividade desses grupos, fornecendo percepções sobre a inclusão no setor.
+Realizar uma análise detalhada de gênero, raça e região para avaliar a presença de diversidade no setor de TI no Brasil. O objetivo é identificar possíveis desigualdades e variações na representatividade desses grupos, fornecendo percepções sobre a inclusão no setor.
 
 ### Principais perguntas
 
-- Qual a porcentagem de pessoas pertencentes a grupos considerados minoritários na área de dados?
+- Qual a porcentagem de pessoas pertencentes a grupos considerados minoritários no setor de TI?
 - Existem disparidades salariais entre esses grupos e outros profissionais da área?
-- Quais são as principais barreiras de entrada para esses grupos no setor de dados?
+- Quais são as principais barreiras de entrada para esses grupos no setor de TI?
 - Quais iniciativas ou políticas podem ser implementadas para aumentar a diversidade e reduzir a desigualdade?
 
 ### Metodologia
 
-A análise será conduzida a partir de um conjunto de dados que inclui informações demográficas, posição ocupacional, e faixas salariais de profissionais da área de dados. Para isso, serão utilizadas técnicas como análise descritiva, visualização de dados e inferência estatística. A pesquisa também fará uma segmentação dos profissionais por gênero, raça, e região, cruzando essas variáveis com dados salariais e de anos de experiência.
+A análise será conduzida a partir de um conjunto de dados que inclui informações demográficas, posição ocupacional, e faixas salariais de profissionais do setor de TI. Para isso, serão utilizadas técnicas como análise descritiva, visualização de dados e inferência estatística. A pesquisa também fará uma segmentação dos profissionais por gênero, raça, e região, cruzando essas variáveis com dados salariais e de anos de experiência.
 
 ### Ferramentas
 
 A análise será realizada utilizando ferramentas como Python (para processamento de dados e análise estatística), Power BI (para visualizações interativas), e SQL (para consultas e manipulação de grandes volumes de dados).
 
 ### Dados
-Para visualizar a tabela com os dados tratados acesse: 
-https://docs.google.com/spreadsheets/d/1bmgYRqtKdP8aKNZDjrfoB7R0PGuxRAnb-sWkTPslzPg/edit?usp=sharing
+Para visualizar a tabela com os dados tratados acesse: [dados_tratrados.csv](https://docs.google.com/spreadsheets/d/1bmgYRqtKdP8aKNZDjrfoB7R0PGuxRAnb-sWkTPslzPg/edit?usp=sharing)
 
 <details> <summary> <h5>**Biblioteca dos dados:**  - Clique em ▶ para ver os detalhes </h5> </summary> 
 
@@ -53,14 +52,35 @@ https://docs.google.com/spreadsheets/d/1bmgYRqtKdP8aKNZDjrfoB7R0PGuxRAnb-sWkTPsl
 </details> 
 
 ### Pré-processamento de dados e Análises
-A tabela acima foi obtida depois do tratamento de dados no Google Colab. Para ver a limpeza e tratamento dos dados brutos, acesse o notebook importado nesse repositório: [`analise_diversidade__Eslaine_Santos.ipynb`](https://github.com/annesantos1990/diversity_analysis/blob/main/analise_diversidade__Eslaine_Santos.ipynb)
+A tabela `dados_tratados` foi obtida depois do tratamento de dados no Google Colab. Para ver a limpeza, tratamento dos dados brutos e a análise exploratória acesse:[`analise_diversidade__Eslaine_Santos.ipynb`](https://github.com/annesantos1990/diversity_analysis/blob/main/analise_diversidade__Eslaine_Santos.ipynb)
 
-Para todo o pré-processamento e análise exploratória dos dados, acesse [`analise_diversidade__Eslaine_Santos.ipynb`](https://github.com/annesantos1990/diversity_analysis/blob/main/analise_diversidade__Eslaine_Santos.ipynb)
+#### 1. Análise de Dados - Diversidade no Setor de TI (2022) 📝
+
+**Arquivo**: `analise_dados.ipynb`
+
+Este notebook contém uma análise detalhada sobre a diversidade do público na área de TI com base em dados de 2022. Algumas das perguntas respondidas incluem:
+
+- Qual é a distribuição de gênero no setor?
+- Como as diferentes etnias estão representadas?
+- Existe alguma mudança nas tendências de contratação?
+
+#### 2. Regressão Linear - Análise de Salários e Diversidade 💼
+
+**Arquivo**: `regressao_linear.ipynb`
+
+Neste notebook, foi realizado um modelo de **Regressão Linear,** cujo objetivo é ****predizer o salário das pessoas no setor de TI, trazendo insights de quais fatores influenciam mais ou menos nno salário dos profissionais da área.
+
+Essa análise proporciona uma visão  aprofundada sobre os principais fatores que podem estar influenciando o cenário salarial no setor de tecnologia.
 
 
 ### Dashboard
 
-As principais análises foram obtidas no Looker Studio. Para acessar clique no link abaixo:
+As principais análises foram obtidas no Looker Studio. Para acessar clique no link abaixo: [Dashboard - Análise de Diversidade]()
+
+### Principais Resultados:
+
+
+### Links de Interesse:
 
 Para a discussão dos resultados, explicação do dashboard, conclusões e principais insights, acesse a página a seguir:
 
