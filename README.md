@@ -27,12 +27,11 @@ A análise será conduzida a partir de um conjunto de dados que inclui informaç
 A análise será realizada utilizando ferramentas como Python (para processamento de dados e análise estatística), Power BI (para visualizações interativas), e SQL (para consultas e manipulação de grandes volumes de dados).
 
 ### Dados
-
+Para visualizar a tabela com os dados tratados acesse: 
 https://docs.google.com/spreadsheets/d/1bmgYRqtKdP8aKNZDjrfoB7R0PGuxRAnb-sWkTPslzPg/edit?usp=sharing
 
-A tabela acima foi obtida depois do tratamento de dados no Google Colab. Para ver a limpeza e tratamento dos dados brutos, acesse o notebook a seguir: https://colab.research.google.com/drive/17J7qNeUZ4yk0DQYrkmOpZYWiIzluzX_S?usp=sharing
+<details> <summary> <h5>**Biblioteca dos dados:**  - Clique em ▶ para ver os detalhes </h5> </summary> 
 
-**Biblioteca dos dados:**
 
 | **Variável** | **Descrição** |
 | --- | --- |
@@ -51,11 +50,13 @@ A tabela acima foi obtida depois do tratamento de dados no Google Colab. Para ve
 | **ABERTO_OPORTUNIDADES** | Indicação de estar buscando novas oportunidades. |
 | **ETNIA** | Etnia dos participantes em categorias "Branca" e "Não Branca". |
 
+</details> 
+
 ### Pré-processamento de dados e Análises
+A tabela acima foi obtida depois do tratamento de dados no Google Colab. Para ver a limpeza e tratamento dos dados brutos, acesse o notebook importado nesse repositório: [`analise_diversidade__Eslaine_Santos.ipynb`](https://github.com/annesantos1990/diversity_analysis/blob/main/analise_diversidade__Eslaine_Santos.ipynb)
 
-Para todo o pré-processamento e análise exploratória dos dados, acesse o notebook do Colab: 
+Para todo o pré-processamento e análise exploratória dos dados, acesse [`analise_diversidade__Eslaine_Santos.ipynb`](https://github.com/annesantos1990/diversity_analysis/blob/main/analise_diversidade__Eslaine_Santos.ipynb)
 
-[Google Colab](https://colab.research.google.com/drive/17J7qNeUZ4yk0DQYrkmOpZYWiIzluzX_S?usp=sharing)
 
 ### Dashboard
 
