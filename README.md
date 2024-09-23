@@ -52,7 +52,7 @@ Para visualizar a tabela com os dados tratados acesse: [dados_tratrados.csv](htt
 
 ### Pré-processamento de dados
 
-A tabela `dados_tratados` foi obtida depois do tratamento de dados no Google Colab. Para ver a limpeza, tratamento dos dados brutos e a análise exploratória acesse:[`analise_diversidade__Eslaine_Santos.ipynb`](https://github.com/annesantos1990/diversity_analysis/blob/main/analise_diversidade__Eslaine_Santos.ipynb)
+A tabela `dados_tratados` foi obtida depois do tratamento de dados no Google Colab. Para ver a limpeza, tratamento dos dados brutos e a análise exploratória acesse: [`analise_diversidade__Eslaine_Santos.ipynb`](https://github.com/annesantos1990/diversity_analysis/blob/main/analise_diversidade__Eslaine_Santos.ipynb)
 
 ### Análises e Resultados
 #### 1. Análise de Dados - Diversidade no Setor de TI (2022) 📝
@@ -72,9 +72,7 @@ Página do Notion com a análise detalhada e as discussões - [Link do Notion](h
 **Desigualdade racial**: Pessoas brancas são maioria no setor, refletindo as desigualdades raciais presentes no mercado de trabalho. A análise por etnia revela que pessoas negras e indígenas estão subrepresentadas em todos os níveis hierárquicos e recebem, em média, salários menores.
 
 #### 2. Regressão Linear - Análise de Salários e Diversidade 💼
-O modelo de reegressão foi construído no nootebook do Colab na qual pode ter acesso clicando no link abaixo:
-
-**Arquivo**: [`Regressao_Linear_Eslaine.ipynb](https://github.com/annesantos1990/diversity_analysis/blob/main/Regressao_Linear_Eslaine.ipynb)
+O modelo de reegressão foi construído no nootebook do Colab na qual pode ter acesso clicando no link a seguir: [`Regressao_Linear_Eslaine.ipynb`](https://github.com/annesantos1990/diversity_analysis/blob/main/Regressao_Linear_Eslaine.ipynb)
 
 O modelo de regressão foi desenvolvido com o objetivo de prever os salários dos profissionais no setor de TI, identificando os fatores que mais influenciam os níveis salariais. A análise proporciona insights valiosos sobre as desigualdades presentes no setor.
 
