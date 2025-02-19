@@ -19,7 +19,7 @@ Realizar uma análise detalhada de gênero, raça e região para avaliar a prese
 
 ### Metodologia
 
-A análise será conduzida a partir de um conjunto de dados que inclui informações demográficas, posição ocupacional, e faixas salariais de profissionais do setor de TI. Para isso, serão utilizadas técnicas como análise descritiva, visualização de dados e inferência estatística. A pesquisa também fará uma segmentação dos profissionais por gênero, raça, e região, cruzando essas variáveis com dados salariais e de anos de experiência.
+A análise foi conduzida a partir de um conjunto de dados que inclui informações demográficas, posição ocupacional, e faixas salariais de profissionais do setor de TI. Para isso, foram utilizadas técnicas como análise descritiva, visualização de dados e inferência estatística. A pesquisa também fez uma segmentação dos profissionais por gênero, raça, e região, cruzando essas variáveis com dados salariais e de anos de experiência.
 
 ### Ferramentas 🛠️
 
